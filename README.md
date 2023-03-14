@@ -5,5 +5,7 @@
 
  The specialization consists of five courses, including
  
-   1. [Programming for everybody (Getting started with Python)](https://www.coursera.org/learn/python),
+   1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python),
+
+   2. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python),
 
