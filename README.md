@@ -1,2 +1,9 @@
-# Python-exercises
-These assignments are from Coursera course: Pyhton-for-everybody specialization, inclusing five different courses.
+# Python-for-Everybody
+
+
+ This repo consists of the Coursera Specialization - Python-for-everybody, which is available on Coursera offered by University of Michigan.
+
+ The specialization consists of five courses, including
+ 
+   1. [Programming for everybody (Getting started with Python)](https://www.coursera.org/learn/python),
+
