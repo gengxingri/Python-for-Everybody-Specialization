@@ -1,3 +1,5 @@
+# Assignment 8.4
+
 fname = input("Enter file name: ")
 fh = open(fname)
 
