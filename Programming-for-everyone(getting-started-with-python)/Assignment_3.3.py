@@ -1,4 +1,4 @@
-# Assignment 3.1
+# Assignment 3.3
 
 score = input("Enter Score: ")
 try:
